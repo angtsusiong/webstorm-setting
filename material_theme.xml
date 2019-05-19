@@ -1,0 +1,27 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Arrows" />
+    <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="treeFontSize" value="14" />
+    <option name="leftTreeIndent" value="0" />
+    <option name="rightTreeIndent" value="8" />
+    <option name="tabsHeight" value="24" />
+    <option name="accentColor" value="dc81c4" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="-3aeac756:16a8f0e2471:-8000" />
+    <option name="version" value="3.9.4" />
+    <option name="tabHighlightPosition" value="Bottom" />
+  </component>
+</application>
