@@ -73,10 +73,10 @@
         <mark key="." line="36" column="26" />
         <mark key="^" line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/react-tutorial/src/index.js" timestamp="1558292852811">
-        <mark key="[" line="66" column="2" />
-        <mark key="]" line="66" column="2" />
-        <mark key="." line="66" column="2" />
+      <file name="$USER_HOME$/repositories/react-tutorial/src/index.js" timestamp="1558293899283">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="70" column="2" />
+        <mark key="." line="70" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/app.module.ts" timestamp="1557454358588">
         <mark key="[" line="2" column="56" />
@@ -122,7 +122,7 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558292085794">
+      <file name="/GraphQL.result.json" timestamp="1558296264518">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/components/layout/header/header.component.html" timestamp="1557450269403">
