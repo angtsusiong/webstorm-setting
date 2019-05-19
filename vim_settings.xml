@@ -97,6 +97,11 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
+      <file name="$USER_HOME$/repositories/ExampleJWT/index.js" timestamp="1558266681944">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1558262605152">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -174,34 +179,56 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEFkZFRvZG8gZnJvbSAnLi9jb21wb25lbnRzL0FkZFRvZG8nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>docker run --name pg9613 --restart always \
+-e POSTGRES_USER='app_dbuser' -e POSTGRES_PASSWORD='cashbox701' \
+-p 5432:5432 \
+-v /home/a9g/database/postgresql/9.6.13/postgresql.conf:/etc/postgresql/postgresql.conf \
+-v /home/a9g/database/postgresql/9.6.13/data:/var/lib/postgresql/data \
+-d postgres:9.6.13 \
+-c 'config_file=/etc/postgresql/postgresql.conf'
+
+docker run --name pg9613 --restart always --user 1000:1000 \
+-p 5432:5432 \
+-v /home/a9g/database/postgresql/9.6.13/data:/var/lib/postgresql/data \
+-d postgres:9.6.13
+
+docker run --name redis505 --restart always \
+-v /home/a9g/database/redis/5.0.5/redis.conf:/usr/local/etc/redis/redis.conf \
+-p 6379:6379 \
+-v /home/a9g/database/redis/5.0.5/data:/data \
+-d redis:5.0.5 redis-server /usr/local/etc/redis/redis.conf
+
+docker run --name redis505 --restart always --user 1000:1000 \
+-p 6379:6379 \
+-v /home/a9g/database/redis/5.0.5/data:/data \
+-d redis:5.0.5</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxSZWFjdCBjbGFzc05hbWU9IkZyYWdtZW50Ij48L1JlYWN0Pgo=</text>
+        <text encoding="base64">LXYgL2hvbWUvYTlnL2RhdGFiYXNlL3JlZGlzLzUuMC41L3JlZGlzLmNvbmY6L3Vzci9sb2NhbC9ldGMvcmVkaXMvcmVkaXMuY29uZiBcCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2PgoKICAgICAgPC9kaXY+CiAgICApOwogIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">LXYgL2hvbWUvYTlnL2RhdGFiYXNlL3Bvc3RncmVzcWwvOS42LjEzL3Bvc3RncmVzcWwuY29uZjovZXRjL3Bvc3RncmVzcWwvcG9zdGdyZXNxbC5jb25mIFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VXNlIG5wbSBpbnN0ZWFkIG9mIHlhcm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxSZWFjdCBjbGFzc05hbWU9IkZyYWdtZW50Ij48L1JlYWN0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBDb21wb25lbnQg</text>
+        <text encoding="base64">IHJlZGlzLXNlcnZlciAvdXNyL2xvY2FsL2V0Yy9yZWRpcy9yZWRpcy5jb25m</text>
       </register>
     </registers>
     <search>
