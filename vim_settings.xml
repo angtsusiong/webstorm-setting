@@ -14,6 +14,12 @@
         <mark key="." line="27" column="12" />
         <mark key="^" line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/react-tutorial/package.json" timestamp="1558273344660" />
+      <file name="$USER_HOME$/repositories/react-tutorial/src/index.css" timestamp="1558273143758">
+        <mark key="[" line="49" column="1" />
+        <mark key="]" line="49" column="1" />
+        <mark key="." line="49" column="1" />
+      </file>
       <file name="$USER_HOME$/repositories/react-todolist/src/App.js" timestamp="1557879902459">
         <mark key="[" line="65" column="19" />
         <mark key="]" line="73" column="48" />
@@ -68,6 +74,11 @@
         <mark key="." line="36" column="26" />
         <mark key="^" line="36" column="26" />
       </file>
+      <file name="$USER_HOME$/repositories/react-tutorial/src/index.js" timestamp="1558273124423">
+        <mark key="[" line="66" column="2" />
+        <mark key="]" line="66" column="2" />
+        <mark key="." line="66" column="2" />
+      </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/app.module.ts" timestamp="1557454358588">
         <mark key="[" line="2" column="56" />
         <mark key="]" line="12" column="0" />
@@ -102,12 +113,17 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558262605152">
+      <file name="/Dummy.txt" timestamp="1558273223267">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558268990156">
+      <file name="$USER_HOME$/repositories/react-counter/src/index.css" timestamp="1558272782910">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1558273081400">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/components/layout/header/header.component.html" timestamp="1557450269403">
@@ -184,36 +200,14 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>docker run --name pg9613 --restart always \
--e POSTGRES_USER='app_dbuser' -e POSTGRES_PASSWORD='cashbox701' \
--p 5432:5432 \
--v /home/a9g/database/postgresql/9.6.13/postgresql.conf:/etc/postgresql/postgresql.conf \
--v /home/a9g/database/postgresql/9.6.13/data:/var/lib/postgresql/data \
--d postgres:9.6.13 \
--c 'config_file=/etc/postgresql/postgresql.conf'
-
-docker run --name pg9613 --restart always --user 1000:1000 \
--p 5432:5432 \
--v /home/a9g/database/postgresql/9.6.13/data:/var/lib/postgresql/data \
--d postgres:9.6.13
-
-docker run --name redis505 --restart always \
--v /home/a9g/database/redis/5.0.5/redis.conf:/usr/local/etc/redis/redis.conf \
--p 6379:6379 \
--v /home/a9g/database/redis/5.0.5/data:/data \
--d redis:5.0.5 redis-server /usr/local/etc/redis/redis.conf
-
-docker run --name redis505 --restart always --user 1000:1000 \
--p 6379:6379 \
--v /home/a9g/database/redis/5.0.5/data:/data \
--d redis:5.0.5</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LXYgL2hvbWUvYTlnL2RhdGFiYXNlL3JlZGlzLzUuMC41L3JlZGlzLmNvbmY6L3Vzci9sb2NhbC9ldGMvcmVkaXMvcmVkaXMuY29uZiBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LXYgL2hvbWUvYTlnL2RhdGFiYXNlL3Bvc3RncmVzcWwvOS42LjEzL3Bvc3RncmVzcWwuY29uZjovZXRjL3Bvc3RncmVzcWwvcG9zdGdyZXNxbC5jb25mIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -225,7 +219,7 @@ docker run --name redis505 --restart always --user 1000:1000 \
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxSZWFjdCBjbGFzc05hbWU9IkZyYWdtZW50Ij48L1JlYWN0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHJlZGlzLXNlcnZlciAvdXNyL2xvY2FsL2V0Yy9yZWRpcy9yZWRpcy5jb25m</text>
