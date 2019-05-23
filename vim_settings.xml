@@ -19,6 +19,7 @@
         <mark key="]" line="49" column="1" />
         <mark key="." line="49" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/aio/package.json" timestamp="1558654210313" />
       <file name="$USER_HOME$/repositories/react-todolist/src/App.js" timestamp="1558613428707">
         <mark key="[" line="65" column="19" />
         <mark key="]" line="73" column="48" />
@@ -31,6 +32,7 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/repositories/angular/aio/package.json" timestamp="1558654602912" />
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/components/pages/about/about.component.html" timestamp="1557450132435">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="2" column="20" />
@@ -123,7 +125,7 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558648343941">
+      <file name="/GraphQL.result.json" timestamp="1558654102546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/components/layout/header/header.component.html" timestamp="1557450269403">
