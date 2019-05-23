@@ -15,6 +15,7 @@
     <option name="tabFontSizeEnabled" value="true" />
     <option name="customSidebarHeight" value="22" />
     <option name="treeFontSize" value="14" />
+    <option name="tabFontSize" value="13" />
     <option name="leftTreeIndent" value="0" />
     <option name="rightTreeIndent" value="8" />
     <option name="tabsHeight" value="24" />
