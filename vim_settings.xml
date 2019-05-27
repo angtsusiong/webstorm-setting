@@ -19,6 +19,12 @@
         <mark key="]" line="49" column="1" />
         <mark key="." line="49" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/learn-react-app/src/index.css" timestamp="1558976408001">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="31" column="1" />
+      </file>
       <file name="$USER_HOME$/repositories/react-todolist/src/App.js" timestamp="1558613428707">
         <mark key="[" line="65" column="19" />
         <mark key="]" line="73" column="48" />
@@ -67,7 +73,7 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="/JavaScript Console" timestamp="1558643221890">
+      <file name="/JavaScript Console" timestamp="1558975499374">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/services/todo.service.ts" timestamp="1557449444006">
@@ -194,14 +200,15 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEFkZFRvZG8gZnJvbSAnLi9jb21wb25lbnRzL0FkZFRvZG8nOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci5obGpzIHsKCiAgZm9udC1mYW1pbHk6ICJPcGVyYXRvck1vbm9MaWcgTmVyZCBGb250IiwKICBtb25vc3BhY2U7CiAgZm9udC13ZWlnaHQ6IDMwMCAhaW1wb3J0YW50Owp9</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ci5obGpzIHsKCiAgZm9udC1mYW1pbHk6ICJPcGVyYXRvck1vbm9MaWcgTmVyZCBGb250IiwKICBtb25vc3BhY2U7CiAgZm9udC13ZWlnaHQ6IDMwMCAhaW1wb3J0YW50Owp9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;,
+    &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -225,7 +232,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlZGlzLXNlcnZlciAvdXNyL2xvY2FsL2V0Yy9yZWRpcy9yZWRpcy5jb25m</text>
+        <text>source-code-pro, Menlo, Monaco, Consolas, &quot;Courier New&quot;</text>
       </register>
     </registers>
     <search>
