@@ -82,11 +82,10 @@
         <mark key="." line="36" column="26" />
         <mark key="^" line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/react-tutorial/src/index.js" timestamp="1558981334188">
-        <mark key="[" line="34" column="47" />
-        <mark key="]" line="34" column="44" />
-        <mark key="." line="34" column="44" />
-        <mark key="^" line="34" column="44" />
+      <file name="$USER_HOME$/repositories/react-tutorial/src/index.js" timestamp="1558985223322">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/app.module.ts" timestamp="1557454358588">
         <mark key="[" line="2" column="56" />
@@ -200,24 +199,29 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEFkZFRvZG8gZnJvbSAnLi9jb21wb25lbnRzL0FkZFRvZG8nOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>{
+    super(props);
+    this.state = {
+      value: null,
+    };
+  }</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">Ci5obGpzIHsKCiAgZm9udC1mYW1pbHk6ICJPcGVyYXRvck1vbm9MaWcgTmVyZCBGb250IiwKICBtb25vc3BhY2U7CiAgZm9udC13ZWlnaHQ6IDMwMCAhaW1wb3J0YW50Owp9</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
-      </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;,
     &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -232,7 +236,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>setState({value: 'X'} )}</text>
       </register>
     </registers>
     <search>
