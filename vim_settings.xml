@@ -58,6 +58,9 @@
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/191.7141.49.vmoptions" timestamp="1558659565734">
+        <mark key="[" line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/app.component.ts" timestamp="1557424670392">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="7" />
@@ -123,7 +126,7 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558659412239">
+      <file name="/GraphQL.result.json" timestamp="1558975376088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/components/layout/header/header.component.html" timestamp="1557450269403">
@@ -247,6 +250,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
