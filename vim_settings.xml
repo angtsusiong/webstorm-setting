@@ -73,7 +73,7 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="/JavaScript Console" timestamp="1558979865690">
+      <file name="/JavaScript Console" timestamp="1558980048930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/services/todo.service.ts" timestamp="1557449444006">
@@ -82,11 +82,11 @@
         <mark key="." line="36" column="26" />
         <mark key="^" line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/react-tutorial/src/index.js" timestamp="1558642789963">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="28" column="14" />
+      <file name="$USER_HOME$/repositories/react-tutorial/src/index.js" timestamp="1558981334188">
+        <mark key="[" line="34" column="47" />
+        <mark key="]" line="34" column="44" />
+        <mark key="." line="34" column="44" />
+        <mark key="^" line="34" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/app.module.ts" timestamp="1557454358588">
         <mark key="[" line="2" column="56" />
@@ -132,7 +132,7 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558979848237">
+      <file name="/GraphQL.result.json" timestamp="1558980022633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/components/layout/header/header.component.html" timestamp="1557450269403">
@@ -204,7 +204,7 @@
         <text encoding="base64">Ci5obGpzIHsKCiAgZm9udC1mYW1pbHk6ICJPcGVyYXRvck1vbm9MaWcgTmVyZCBGb250IiwKICBtb25vc3BhY2U7CiAgZm9udC13ZWlnaHQ6IDMwMCAhaW1wb3J0YW50Owp9</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ci5obGpzIHsKCiAgZm9udC1mYW1pbHk6ICJPcGVyYXRvck1vbm9MaWcgTmVyZCBGb250IiwKICBtb25vc3BhY2U7CiAgZm9udC13ZWlnaHQ6IDMwMCAhaW1wb3J0YW50Owp9</text>
+        <text>l</text>
       </register>
       <register name="2" type="4">
         <text>-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;,
@@ -232,7 +232,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>source-code-pro, Menlo, Monaco, Consolas, &quot;Courier New&quot;</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
