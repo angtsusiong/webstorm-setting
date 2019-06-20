@@ -70,11 +70,11 @@
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/models/todo.ts" timestamp="1557425291596">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/dash-shaka/public/index.html" timestamp="1561009652418">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/repositories/dash-shaka/public/index.html" timestamp="1561017528786">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/react-todolist/src/components/layout/Header.js" timestamp="1558613465654">
         <mark key="[" line="0" column="26" />
@@ -168,6 +168,12 @@
         <mark key="." line="3" column="60" />
         <mark key="^" line="3" column="60" />
       </file>
+      <file name="$USER_HOME$/repositories/dash-shaka/cors-json-file.json" timestamp="1561017621335">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="68" />
+        <mark key="^" line="3" column="68" />
+        <mark key="." line="3" column="68" />
+      </file>
       <file name="$USER_HOME$/repositories/react-todolist/src/components/pages/About.js" timestamp="1557879260362">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="8" column="0" />
@@ -215,7 +221,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/dash-shaka/src/index.js" timestamp="1561015703608">
+      <file name="$USER_HOME$/repositories/dash-shaka/src/index.js" timestamp="1561017303990">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="70" />
@@ -242,15 +248,21 @@
         <text encoding="base64">aW1wb3J0IEFkZFRvZG8gZnJvbSAnLi9jb21wb25lbnRzL0FkZFRvZG8nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2Rhc2gtd2VibS1jb250ZW50L2Rhc2gvbWFuaWZlc3QubXBkJzsK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAnaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2Rhc2gtd2VibS1jb250ZW50L2Rhc2gvbWFuaWZlc3QubXBkJzsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>.App {
   text-align: center;
 }
@@ -285,26 +297,20 @@
   }
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICA8L2hlYWRlcj4=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PGltZyBzcmM9e2xvZ299IGNsYXNzTmFtZT0iQXBwLWxvZ28iIGFsdD0ibG9nbyIgLz4KICAgICAgICA8cD4KICAgICAgICAgIEVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLgogICAgICAgIDwvcD4KICAgICAgICA8YQogICAgICAgICAgY2xhc3NOYW1lPSJBcHAtbGluayIKICAgICAgICAgIGhyZWY9Imh0dHBzOi8vcmVhY3Rqcy5vcmciCiAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIKICAgICAgICA+CiAgICAgICAgICBMZWFybiBSZWFjdAogICAgICAgIDwvYT4=</text>
+        <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICA8L2hlYWRlcj4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
