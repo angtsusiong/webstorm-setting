@@ -44,6 +44,11 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/repositories/dash-shaka/src/App.css" timestamp="1561010541867">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/components/pages/about/about.component.html" timestamp="1557450132435">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="2" column="20" />
@@ -65,6 +70,12 @@
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/models/todo.ts" timestamp="1557425291596">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/dash-shaka/public/index.html" timestamp="1561009652418">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/react-todolist/src/components/layout/Header.js" timestamp="1558613465654">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="4" column="29" />
@@ -80,7 +91,12 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="/JavaScript Console" timestamp="1558980048930">
+      <file name="$USER_HOME$/repositories/dash-shaka/src/App.js" timestamp="1561010527585">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1561010160047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/services/todo.service.ts" timestamp="1557449444006">
@@ -99,6 +115,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/dash-shaka/src/index.css" timestamp="1561009454689">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/components/layout/header/header.component.scss" timestamp="1557447855301">
         <mark key="[" line="5" column="1" />
@@ -194,6 +215,9 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/dash-shaka/src/index.js" timestamp="1561009647026">
+        <mark key="[" line="7" column="58" />
+      </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/index.html" timestamp="1557182818126">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="8" />
@@ -215,40 +239,78 @@
         <text encoding="base64">aW1wb3J0IEFkZFRvZG8gZnJvbSAnLi9jb21wb25lbnRzL0FkZFRvZG8nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnc29tZW9uZSBjb25uZWN0ZWQnKTsK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-    super(props);
-    this.state = {
-      value: null,
-    };
-  }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Ci5obGpzIHsKCiAgZm9udC1mYW1pbHk6ICJPcGVyYXRvck1vbm9MaWcgTmVyZCBGb250IiwKICBtb25vc3BhY2U7CiAgZm9udC13ZWlnaHQ6IDMwMCAhaW1wb3J0YW50Owp9</text>
+        <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICA8L2hlYWRlcj4=</text>
       </register>
-      <register name="6" type="4">
-        <text>-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;,
-    &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGltZyBzcmM9e2xvZ299IGNsYXNzTmFtZT0iQXBwLWxvZ28iIGFsdD0ibG9nbyIgLz4KICAgICAgICA8cD4KICAgICAgICAgIEVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLgogICAgICAgIDwvcD4KICAgICAgICA8YQogICAgICAgICAgY2xhc3NOYW1lPSJBcHAtbGluayIKICAgICAgICAgIGhyZWY9Imh0dHBzOi8vcmVhY3Rqcy5vcmciCiAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIKICAgICAgICA+CiAgICAgICAgICBMZWFybiBSZWFjdAogICAgICAgIDwvYT4=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;,
+    &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, &quot;Courier New&quot;,
+    monospace;
+}</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
