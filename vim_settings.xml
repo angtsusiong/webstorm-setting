@@ -44,6 +44,11 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/repositories/dash-shaka/package.json" timestamp="1561018771092">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/dash-shaka/src/App.css" timestamp="1561010541867">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -96,7 +101,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1561015330235">
+      <file name="/JavaScript Console" timestamp="1561018774626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/services/todo.service.ts" timestamp="1557449444006">
@@ -221,7 +226,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/dash-shaka/src/index.js" timestamp="1561017303990">
+      <file name="$USER_HOME$/repositories/dash-shaka/src/index.js" timestamp="1561019083210">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="70" />
@@ -248,21 +253,24 @@
         <text encoding="base64">aW1wb3J0IEFkZFRvZG8gZnJvbSAnLi9jb21wb25lbnRzL0FkZFRvZG8nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">ICAgICJzaGFrYSI6ICJeMy4wLjEiLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzaGFrYSI6ICJeMy4wLjEiLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAnaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2Rhc2gtd2VibS1jb250ZW50L2Rhc2gvbWFuaWZlc3QubXBkJzsK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAnaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2Rhc2gtd2VibS1jb250ZW50L2Rhc2gvbWFuaWZlc3QubXBkJzsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.App {
   text-align: center;
 }
@@ -297,17 +305,14 @@
   }
 }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICA8L2hlYWRlcj4=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
