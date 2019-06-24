@@ -75,11 +75,11 @@
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/models/todo.ts" timestamp="1557425291596">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/dash-shaka/public/index.html" timestamp="1561021289805">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="12" column="21" />
-        <mark key="^" line="12" column="21" />
+      <file name="$USER_HOME$/repositories/dash-shaka/public/index.html" timestamp="1561356078313">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/react-todolist/src/components/layout/Header.js" timestamp="1558613465654">
         <mark key="[" line="0" column="26" />
@@ -101,7 +101,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1561018774626">
+      <file name="/JavaScript Console" timestamp="1561355336361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/services/todo.service.ts" timestamp="1557449444006">
@@ -164,7 +164,7 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1561007739394">
+      <file name="/GraphQL.result.json" timestamp="1561355142303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/components/layout/header/header.component.html" timestamp="1557450269403">
@@ -226,11 +226,10 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/dash-shaka/src/index.js" timestamp="1561022605822">
-        <mark key="[" line="10" column="73" />
-        <mark key="]" line="10" column="76" />
-        <mark key="." line="10" column="76" />
-        <mark key="^" line="10" column="76" />
+      <file name="$USER_HOME$/repositories/dash-shaka/src/index.js" timestamp="1561356060039">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/angular-todolist/src/index.html" timestamp="1557182818126">
         <mark key="[" line="4" column="16" />
@@ -258,64 +257,32 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgJw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHZpZGVvLWpzIGZyb20gJ3ZpZGVvLWpzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBodHRwczovL2plc3NpZS10YW5nLXZpZGVvcy5vc3MtY24taG9uZ2tvbmcuYWxpeXVuY3MuY29tL2ZpbGVzL2Rhc2gvbWFuaWZlc3QubXBkCg==</text>
+        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSdNWV9WSURFTy5tcDQnIHR5cGU9J3ZpZGVvL21wNCc+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzaGFrYSI6ICJeMy4wLjEiLAo=</text>
+        <text encoding="base64">ICAgIDwvcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">ICAgIDxwIGNsYXNzPSd2anMtbm8tanMnPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgVG8gdmlldyB0aGlzIHZpZGVvIHBsZWFzZSBlbmFibGUgSmF2YVNjcmlwdCwgYW5kIGNvbnNpZGVyIHVwZ3JhZGluZyB0byBhIHdlYiBicm93c2VyIHRoYXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2Rhc2gtd2VibS1jb250ZW50L2Rhc2gvbWFuaWZlc3QubXBkJzsK</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0naHR0cHM6Ly92aWRlb2pzLmNvbS9odG1sNS12aWRlby1zdXBwb3J0LycgdGFyZ2V0PSdfYmxhbmsnPnN1cHBvcnRzIEhUTUw1IHZpZGVvPC9hPgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>.App {
-  text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}</text>
+        <text encoding="base64">CiAgJw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MY_VIDEO_POSTER.jpg</text>
       </register>
     </registers>
     <search>
