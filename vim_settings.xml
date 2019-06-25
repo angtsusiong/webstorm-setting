@@ -75,11 +75,11 @@
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/models/todo.ts" timestamp="1557425291596">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/dash-shaka/public/index.html" timestamp="1561428662007">
-        <mark key="[" line="12" column="85" />
-        <mark key="]" line="12" column="85" />
-        <mark key="." line="12" column="85" />
-        <mark key="^" line="12" column="87" />
+      <file name="$USER_HOME$/repositories/dash-shaka/public/index.html" timestamp="1561431404803">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/react-todolist/src/components/layout/Header.js" timestamp="1558613465654">
         <mark key="[" line="0" column="26" />
@@ -249,13 +249,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEFkZFRvZG8gZnJvbSAnLi9jb21wb25lbnRzL0FkZFRvZG8nOwo=</text>
+        <text encoding="base64">ICA8dmlkZW8gaWQ9J215LXZpZGVvJyBjbGFzcz0ndmlkZW8tanMnIGNvbnRyb2xzIHByZWxvYWQ9J2F1dG8nIHdpZHRoPScxMjgwJyBoZWlnaHQ9JzcyMCcKICAgICAgICAgcG9zdGVyPScnIGRhdGEtc2V0dXA9J3t9Jz4KICAgIDxzb3VyY2Ugc3JjPScvL2Qyd2M5aXgweGR4ZGY5LmNsb3VkZnJvbnQubmV0L3NhbXBsZS9DYXB0YWluTWFydmVsX2ZoZF83MDAway53ZWJtCicgdHlwZT0ndmlkZW8vd2VibSc+CiAgPC92aWRlbz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8dmlkZW8gaWQ9J215LXZpZGVvJyBjbGFzcz0ndmlkZW8tanMnIGNvbnRyb2xzIHByZWxvYWQ9J2F1dG8nIHdpZHRoPScxMjgwJyBoZWlnaHQ9JzcyMCcKICAgICAgICAgcG9zdGVyPScnIGRhdGEtc2V0dXA9J3t9Jz4KICAgIDxzb3VyY2Ugc3JjPScvL2Qyd2M5aXgweGR4ZGY5LmNsb3VkZnJvbnQubmV0L3NhbXBsZS9DYXB0YWluTWFydmVsX2ZoZF83MDAway53ZWJtCicgdHlwZT0ndmlkZW8vd2VibSc+CiAgPC92aWRlbz4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHZpZGVvLWpzIGZyb20gJ3ZpZGVvLWpzJzsK</text>
