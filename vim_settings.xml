@@ -75,11 +75,11 @@
       <file name="$USER_HOME$/repositories/angular-todolist/src/app/models/todo.ts" timestamp="1557425291596">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/dash-shaka/public/index.html" timestamp="1561456116754">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/repositories/dash-shaka/public/index.html" timestamp="1561462428152">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="^" line="24" column="63" />
+        <mark key="." line="22" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/react-todolist/src/components/layout/Header.js" timestamp="1558613465654">
         <mark key="[" line="0" column="26" />
@@ -248,41 +248,41 @@
       <jump line="10" column="30" filename="$USER_HOME$/repositories/chat-example/index.js" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPScvL2Qyd2M5aXgweGR4ZGY5LmNsb3VkZnJvbnQubmV0L3NhbXBsZS9DYXB0YWluTWFydmVsX2ZoZF83MDAway53ZWJtJyB0eXBlPSd2aWRlby93ZWJtJz4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICA8dmlkZW8gaWQ9J215LXZpZGVvX3RzJyBjbGFzcz0ndmlkZW8tanMnIGNvbnRyb2xzIHByZWxvYWQ9J2F1dG8nIHdpZHRoPScxMjgwJyBoZWlnaHQ9JzcyMCcKICAgICAgICAgcG9zdGVyPScnIGRhdGEtc2V0dXA9J3t9Jz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9InBhdGgvdG8vcGx5ci5jc3MiIC8+Cg==</text>
+        <text encoding="base64">ICA8dmlkZW8gY2xhc3M9J3ZpZGVvLWpzJyBpZD0icGxheWVyIiBwbGF5c2lubGluZSBjb250cm9scyB3aWR0aD0nMTI4MCcgaGVpZ2h0PSc3MjAnPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9InBhdGgvdG8vcGx5ci5jc3MiIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQ2FwdGlvbnMgYXJlIG9wdGlvbmFsIC0tPgo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9InBhdGgvdG8vcGx5ci5jc3MiIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSIvcGF0aC90by92aWRlby53ZWJtIiB0eXBlPSJ2aWRlby93ZWJtIiAvPgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gQ2FwdGlvbnMgYXJlIG9wdGlvbmFsIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSIvcGF0aC90by92aWRlby5tcDQiIHR5cGU9InZpZGVvL21wNCIgLz4K</text>
+        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSIvcGF0aC90by92aWRlby53ZWJtIiB0eXBlPSJ2aWRlby93ZWJtIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx0cmFjayBraW5kPSJjYXB0aW9ucyIgbGFiZWw9IkVuZ2xpc2ggY2FwdGlvbnMiIHNyYz0iL3BhdGgvdG8vY2FwdGlvbnMudnR0IiBzcmNsYW5nPSJlbiIgZGVmYXVsdCAvPgo=</text>
+        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSIvcGF0aC90by92aWRlby5tcDQiIHR5cGU9InZpZGVvL21wNCIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0cmFjayBraW5kPSJjYXB0aW9ucyIgbGFiZWw9IkVuZ2xpc2ggY2FwdGlvbnMiIHNyYz0iL3BhdGgvdG8vY2FwdGlvbnMudnR0IiBzcmNsYW5nPSJlbiIgZGVmYXVsdCAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHZpZGVvLWpzIGZyb20gJ3ZpZGVvLWpzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSdNWV9WSURFTy5tcDQnIHR5cGU9J3ZpZGVvL21wNCc+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHZpZGVvLWpzIGZyb20gJ3ZpZGVvLWpzJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSdNWV9WSURFTy5tcDQnIHR5cGU9J3ZpZGVvL21wNCc+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/path/to/poster.jpg</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
