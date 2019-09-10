@@ -18,11 +18,11 @@
     <option name="tabFontSize" value="13" />
     <option name="leftTreeIndent" value="0" />
     <option name="rightTreeIndent" value="8" />
-    <option name="tabsHeight" value="24" />
+    <option name="tabsHeight" value="17" />
     <option name="accentColor" value="dc81c4" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-3aeac756:16a8f0e2471:-8000" />
-    <option name="version" value="4.5.0.1" />
+    <option name="version" value="4.5.1" />
     <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
