@@ -1,6 +1,16 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
@@ -18,7 +28,154 @@
         <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/repositories/caocao-movie/serverless.yml" timestamp="1571664900425">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/caocao-app/src/components/Header.js" timestamp="1570350852008">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/learn-react-app/src/exercise/01-HelloWorld.js" timestamp="1570334826507">
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="53" />
+        <mark key="^" line="15" column="53" />
+        <mark key="." line="15" column="53" />
+      </file>
+      <file name="$USER_HOME$/repositories/caocao-crawler/server.js" timestamp="1568686216221">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="2" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1586997335794">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/mspay-worker/.gitignore" timestamp="1582350572189">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="/work/caocao/movie/movie.html" timestamp="1569484412323">
+        <mark key="[" line="587" column="0" />
+        <mark key="]" line="587" column="0" />
+        <mark key="." line="587" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/caocao-app/package.json" timestamp="1570349610221">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/193.6494.34.vmoptions" timestamp="1582344275513">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/mspay-worker/idle-checker/.eslintrc.js" timestamp="1582352637726">
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+      </file>
+      <file name="$USER_HOME$/repositories/social-app-react-functions/functions/index.js" timestamp="1569251899187">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="2" />
+        <mark key="." line="26" column="2" />
+        <mark key="^" line="26" column="2" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1572158416002">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/caocao-app/src/index.js" timestamp="1570359668272">
+        <mark key="[" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/caocao-app/src/index.css" timestamp="1570359748053">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6319" column="0" />
+        <mark key="^" line="6319" column="0" />
+        <mark key="." line="6319" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/learn-react-app/src/exercise/03-PowerOfJSX.js" timestamp="1570348608815">
+        <mark key="[" line="47" column="20" />
+        <mark key="]" line="47" column="49" />
+        <mark key="." line="47" column="49" />
+        <mark key="^" line="47" column="49" />
+      </file>
+      <file name="$USER_HOME$/repositories/mspay-worker/idle-checker/package.json" timestamp="1582349352026">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/learn-react-app/src/exercise/02-IntroToJSX.js" timestamp="1570347812606">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="10" column="30" filename="$USER_HOME$/repositories/chat-example/index.js" />
+      <jump line="5" column="33" filename="$USER_HOME$/repositories/mspay-worker/idle-checker/app.js" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="-" type="4">
+        <text>phpapipay</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZE9yZGVycyk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAicnVsZXMiOiB7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBZYXJuIEludGVncml0eSBmaWxlCi55YXJuLWludGVncml0eQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiMgbm9kZS13YWYgY29uZmlndXJhdGlvbgoubG9jay13c2NyaXB0</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyBCb3dlciBkZXBlbmRlbmN5IGRpcmVjdG9yeSAoaHR0cHM6Ly9ib3dlci5pby8pCmJvd2VyX2NvbXBvbmVudHMK</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
