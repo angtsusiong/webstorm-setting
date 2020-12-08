@@ -4,7 +4,7 @@
     <property name="created">2019-05-07T05:30:31</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-03-05T13:09:21</property>
+    <property name="modified">2020-12-08T10:59:47</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.8" />
@@ -337,7 +337,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="b2ccd6" />
@@ -949,6 +948,31 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="383c3e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="2f3c43" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="38334c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2c3a4a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="432935" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c3e88d" />
@@ -998,8 +1022,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />

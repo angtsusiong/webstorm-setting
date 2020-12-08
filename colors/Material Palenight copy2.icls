@@ -4,7 +4,7 @@
     <property name="created">2019-04-30T12:41:21</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-07T05:47:21</property>
+    <property name="modified">2020-12-08T10:59:47</property>
     <property name="originalScheme">_@user_Material Palenight</property>
   </metaInfo>
   <console-font>
@@ -1239,6 +1239,31 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="472c59" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="3e2c5e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="472367" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="3b2b65" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="4e1d49" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

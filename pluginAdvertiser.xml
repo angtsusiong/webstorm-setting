@@ -2,6 +2,22 @@
   <component name="PluginAdvertiserExtensions">
     <option name="localState">
       <map>
+        <entry key="*.ad">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.adoc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ane">
           <value>
             <plugin>
@@ -35,6 +51,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.asciidoc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
             </plugin>
           </value>
         </entry>
@@ -101,6 +125,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cmt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.coffee">
           <value>
             <plugin>
@@ -132,6 +164,14 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.dart">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Dart" />
+              <option name="myPluginName" value="Dart" />
             </plugin>
           </value>
         </entry>
@@ -808,6 +848,54 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ml4">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mlg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mli">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mll">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mly">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mod">
           <value>
             <plugin>
@@ -862,12 +950,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pbm">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pcss">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.postcss" />
+              <option name="myPluginName" value="PostCSS" />
             </plugin>
           </value>
         </entry>
@@ -983,6 +1087,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.proto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.psd">
           <value>
             <plugin>
@@ -1009,12 +1121,44 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.re">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rei">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.res">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.resi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
             </plugin>
           </value>
         </entry>
@@ -1185,6 +1329,14 @@
               <option name="myPluginId" value="com.intellij.jsp" />
               <option name="myPluginName" value="Java Server Pages (JSP)" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.textproto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
             </plugin>
           </value>
         </entry>
@@ -1497,6 +1649,23 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".analysis_options">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".asciidoctorconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -1701,6 +1870,30 @@
             </plugin>
           </value>
         </entry>
+        <entry key="bsconfig.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="dune">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="dune-project">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="exclude">
           <value>
             <plugin>
@@ -1716,6 +1909,14 @@
               <option name="myPluginId" value="com.jetbrains.restClient" />
               <option name="myPluginName" value="HTTP Client" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="jbuild">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
             </plugin>
           </value>
         </entry>
@@ -1835,6 +2036,26 @@
                       <FeaturePluginData displayName="DB Statement" pluginName="Database Navigator" pluginId="DBN" />
                     </value>
                   </entry>
+                  <entry key="DartCommandLineRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Command Line App" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartRemoteDebugConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Remote Debug" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Test" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartWebdevConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Web" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
@@ -1923,6 +2144,11 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                    </value>
+                  </entry>
+                  <entry key="SwaggerCodegen">
+                    <value>
+                      <FeaturePluginData displayName="Swagger Codegen" pluginName="OpenAPI Specifications" pluginId="com.intellij.swagger" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">
