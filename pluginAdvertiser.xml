@@ -1998,6 +1998,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".template-lintrc.js">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".yarnrc">
           <value>
             <plugin>
@@ -2258,6 +2267,16 @@
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="EMBER_SERVE_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Ember Serve" pluginName="Ember.js" pluginId="com.emberjs" />
+                    </value>
+                  </entry>
+                  <entry key="EMBER_TEST_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Ember Test" pluginName="Ember.js" pluginId="com.emberjs" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
