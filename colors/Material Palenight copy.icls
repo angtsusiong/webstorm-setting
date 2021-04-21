@@ -4,7 +4,7 @@
     <property name="created">2019-04-30T12:41:21</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2021-03-02T00:49:47</property>
+    <property name="modified">2021-04-21T08:30:51</property>
     <property name="originalScheme">_@user_Material Palenight</property>
   </metaInfo>
   <console-font>
@@ -1443,7 +1443,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="" />
+    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="264b33" />
@@ -26876,7 +26876,7 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -26898,7 +26898,6 @@
         <option name="BACKGROUND" value="34324a" />
       </value>
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
